@@ -1,4 +1,4 @@
-This repository generates an erroneous clippy error:
+This repository generates an erroneous clippy error; reported as [rust-clippy issue #10085](https://github.com/rust-lang/rust-clippy/issues/10085):
 
 ```
 error: this loop never actually loops
